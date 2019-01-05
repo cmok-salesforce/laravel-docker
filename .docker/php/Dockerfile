@@ -1,7 +1,7 @@
 # The Dockerfile is for creating images not containers.
 FROM php:7.3.0-apache-stretch
 
-MAINTAINER Chenda Mok (cmok@salesforce.com)
+MAINTAINER Chenda Mok
 
 WORKDIR /app
 
